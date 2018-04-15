@@ -1,0 +1,168 @@
+0000.004 (0) Opened log file at time: Sat, 14 Apr 2018 12:47:43 +0000 on http://ltg-demo.test
+0000.013 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.5 WP: 4.9.5 PHP: 7.0.26-2+ubuntu16.04.1+deb.sury.org+2 (apache2handler, Linux ltg-demo 4.4.0-87-generic #110-Ubuntu SMP Tue Jul 18 12:55:35 UTC 2017 x86_64) MySQL: 5.7.20 WPLANG: ja Server: Apache/2.4.18 (Ubuntu) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 8.7M | 10M) multisite: N openssl: OpenSSL 1.1.0g  2 Nov 2017 mcrypt: Y LANG: C ZipArchive::addFile: Y
+0000.021 (0) Free space on disk containing Updraft's temporary directory: 12843.6 MB
+0000.034 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.056 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.086 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1523602435, seconds_ago=107628)
+0000.162 (0) Set semaphore last lock (fd) time to 2018-04-14 12:47:43
+0000.170 (0) Semaphore lock (fd) complete
+0000.217 (0) Backup run: resumption=0, nonce=5c68a0da66d3, begun at=1523710063 (0s ago), job type=backup
+0000.232 (0) Scheduling a resumption (1) after 300 seconds (1523710363) in case this run gets aborted
+0000.283 (0) Checking if we have a zip executable available
+0000.296 (0) Creation of backups of directories: beginning
+0000.322 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0013.616 (0) Total entities for the zip file: 477 directories, 2510 files (0 skipped as non-modified), 33.4 MB
+0013.633 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0014.131 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 100 files added (on-disk size: 83.4 KB)
+0014.444 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 200 files added (on-disk size: 83.4 KB)
+0014.732 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 300 files added (on-disk size: 83.4 KB)
+0015.052 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 400 files added (on-disk size: 83.4 KB)
+0015.333 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 500 files added (on-disk size: 83.4 KB)
+0015.342 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.4 MB, 2510 files batched, 501 (502) added so far); re-opening (prior size: 83.4 KB)
+0016.453 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 600 files added (on-disk size: 3175.4 KB)
+0016.883 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 700 files added (on-disk size: 3175.4 KB)
+0017.254 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 800 files added (on-disk size: 3175.4 KB)
+0017.508 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 900 files added (on-disk size: 3175.4 KB)
+0017.796 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 1000 files added (on-disk size: 3175.4 KB)
+0017.808 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.2 MB, 2510 files batched, 501 (1003) added so far); re-opening (prior size: 3175.4 KB)
+0019.580 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 1100 files added (on-disk size: 4809 KB)
+0019.850 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 1200 files added (on-disk size: 4809 KB)
+0020.230 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 1300 files added (on-disk size: 4809 KB)
+0020.704 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 1400 files added (on-disk size: 4809 KB)
+0021.103 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 1500 files added (on-disk size: 4809 KB)
+0021.127 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16.6 MB, 2510 files batched, 501 (1504) added so far); re-opening (prior size: 4809 KB)
+0024.432 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 1600 files added (on-disk size: 9380.3 KB)
+0025.080 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 1700 files added (on-disk size: 9380.3 KB)
+0025.760 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 1800 files added (on-disk size: 9380.3 KB)
+0026.278 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 1900 files added (on-disk size: 9380.3 KB)
+0026.428 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 421 (1925) files added so far); re-opening (prior size: 9380.3 KB)
+0028.043 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 2000 files added (on-disk size: 9880.8 KB)
+0028.491 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 2100 files added (on-disk size: 9880.8 KB)
+0028.914 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 2200 files added (on-disk size: 9880.8 KB)
+0029.363 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 2300 files added (on-disk size: 9880.8 KB)
+0029.918 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 2400 files added (on-disk size: 9880.8 KB)
+0030.050 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.6 MB, 2510 files batched, 501 (2426) added so far); re-opening (prior size: 9880.8 KB)
+0032.560 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip.tmp: 2500 files added (on-disk size: 11691.9 KB)
+0034.035 (0) Created plugins zip (0) - 12190.3 KB in 33.7 s (361.8 KB/s) (sha1: 6a1f134e7b54a2ab202bd8aa9284fac5274bb0c0, sha256: 4d8228f8df1afda79036cf9ae5120e2fdca7823fdc7c82afae7f4fadeb156eaa)
+0034.077 (0) Beginning creation of dump of themes (split every: 400 MB)
+0034.657 (0) Total entities for the zip file: 35 directories, 163 files (0 skipped as non-modified), 5.5 MB
+0035.201 (0) Zip: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0036.860 (0) Created themes zip (0) - 3365.9 KB in 2.8 s (1216.2 KB/s) (sha1: 7d14098d2e0ef5c1c1e0cf066790535123d514b2, sha256: 84a5efd36cdc5c41fe7b8a99da4c282f765f299720de845ad30e571a2993e58b)
+0036.887 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0036.892 (0) Looking for candidates to back up in: /var/www/html/wp-content/uploads
+0036.898 (0) finding files: 2017: adding to list (1)
+0036.904 (0) finding files: 2018: adding to list (2)
+0036.916 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0037.113 (0) Total entities for the zip file: 8 directories, 91 files (0 skipped as non-modified), 14.7 MB
+0038.526 (0) Created uploads zip (0) - 15114 KB in 1.6 s (9495.4 KB/s) (sha1: 5c058d5ae531b54b34ba7940f602d53b7335755f, sha256: 0051d9225a6f3ce1555d323acaccfc0f7c5361f285ebdadaf1eeee7981969398)
+0038.549 (0) Beginning backup of other directories found in the content directory (index: 0)
+0038.556 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log,ai1wm-backups*
+0038.562 (0) Looking for candidates to back up in: /var/www/html/wp-content
+0038.568 (0) finding files: upgrade: skipping: excluded by options
+0038.573 (0) finding files: .DS_Store: adding to list (1)
+0038.577 (0) finding files: index.php: adding to list (2)
+0038.581 (0) finding files: plugins: skipping: this is the plugins directory
+0038.586 (0) finding files: uploads: skipping: this is the uploads directory
+0038.590 (0) finding files: updraft: skipping: this is the updraft directory
+0038.594 (0) finding files: languages: adding to list (3)
+0038.598 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0038.605 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0038.606 (0) finding files: themes: skipping: this is the themes directory
+0038.679 (0) Total entities for the zip file: 3 directories, 38 files (0 skipped as non-modified), 2.2 MB
+0039.082 (0) Created others zip (0) - 627.8 KB in 0.5 s (1352.2 KB/s) (sha1: aaf08a4f51f1565b41ccd27fd5003b232fa345fd, sha256: 035c81b4c386d08cebe7ba0264f53cdc37aeed7e81f786dc6978f2735122b1d3)
+0039.111 (0) Saving backup status to database (elements: 8)
+0039.122 (0) Beginning creation of database dump (WordPress DB)
+0039.133 (0) Testing: /usr/bin/mysqldump
+0039.218 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1183 bytes total)
+0039.223 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0039.250 (0) Table wp_options: Total expected rows (approximate): 286
+0039.275 (0) Table wp_options: Total rows added: 287 in 0.02 seconds
+0039.284 (0) Table wp_options: finishing file (backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_options.table.gz - 26 KB)
+0039.298 (0) Table wp_users: Total expected rows (approximate): 1
+0039.304 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0039.308 (0) Table wp_users: finishing file (backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_users.table.gz - 0.5 KB)
+0039.322 (0) Table wp_usermeta: Total expected rows (approximate): 20
+0039.329 (0) Table wp_usermeta: Total rows added: 20 in 0.00 seconds
+0039.333 (0) Table wp_usermeta: finishing file (backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_usermeta.table.gz - 1 KB)
+0039.348 (0) Table wp_commentmeta: Total expected rows (approximate): 10
+0039.354 (0) Table wp_commentmeta: Total rows added: 10 in 0.00 seconds
+0039.358 (0) Table wp_commentmeta: finishing file (backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_commentmeta.table.gz - 0.5 KB)
+0039.372 (0) Table wp_comments: Total expected rows (approximate): 10
+0039.379 (0) Table wp_comments: Total rows added: 10 in 0.00 seconds
+0039.386 (0) Table wp_comments: finishing file (backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_comments.table.gz - 1.3 KB)
+0039.399 (0) Table wp_links: Total expected rows (approximate): 0
+0039.404 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0039.408 (0) Table wp_links: finishing file (backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_links.table.gz - 0.4 KB)
+0039.424 (0) Table wp_postmeta: Total expected rows (approximate): 421
+0039.450 (0) Table wp_postmeta: Total rows added: 422 in 0.02 seconds
+0039.459 (0) Table wp_postmeta: finishing file (backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_postmeta.table.gz - 8.4 KB)
+0039.474 (0) Table wp_posts: Total expected rows (approximate): 75
+0039.501 (0) Table wp_posts: Total rows added: 75 in 0.02 seconds
+0039.511 (0) Table wp_posts: finishing file (backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_posts.table.gz - 19.3 KB)
+0039.524 (0) Table wp_term_relationships: Total expected rows (approximate): 25
+0039.530 (0) Table wp_term_relationships: Total rows added: 25 in 0.00 seconds
+0039.535 (0) Table wp_term_relationships: finishing file (backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0039.565 (0) Table wp_term_taxonomy: Total expected rows (approximate): 9
+0039.605 (0) Table wp_term_taxonomy: Total rows added: 9 in 0.01 seconds
+0039.612 (0) Table wp_term_taxonomy: finishing file (backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_term_taxonomy.table.gz - 0.7 KB)
+0039.636 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0039.645 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0039.668 (0) Table wp_termmeta: finishing file (backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_termmeta.table.gz - 0.4 KB)
+0039.688 (0) Table wp_terms: Total expected rows (approximate): 9
+0039.694 (0) Table wp_terms: Total rows added: 9 in 0.00 seconds
+0039.722 (0) Table wp_terms: finishing file (backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_terms.table.gz - 0.7 KB)
+0039.781 (0) backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_options.table.gz (1/12): adding to final database dump
+0039.801 (0) backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_users.table.gz (2/12): adding to final database dump
+0039.807 (0) backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_usermeta.table.gz (3/12): adding to final database dump
+0039.817 (0) backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_commentmeta.table.gz (4/12): adding to final database dump
+0039.825 (0) backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_comments.table.gz (5/12): adding to final database dump
+0039.832 (0) backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_links.table.gz (6/12): adding to final database dump
+0039.839 (0) backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_postmeta.table.gz (7/12): adding to final database dump
+0039.851 (0) backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_posts.table.gz (8/12): adding to final database dump
+0039.868 (0) backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_term_relationships.table.gz (9/12): adding to final database dump
+0039.874 (0) backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_term_taxonomy.table.gz (10/12): adding to final database dump
+0039.881 (0) backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_termmeta.table.gz (11/12): adding to final database dump
+0039.890 (0) backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db-table-wp_terms.table.gz (12/12): adding to final database dump
+0039.897 (0) backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db.gz: finished writing out complete database file (48 KB)
+0039.939 (0) Total database tables backed up: 12 (backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db.gz, size: 58526, sha256)
+0039.994 (0) backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0040.001 (0) backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0040.013 (0) backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0040.019 (0) backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-others.zip: others: This file has not yet been successfully uploaded: will queue
+0040.026 (0) backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db.gz: db: This file has not yet been successfully uploaded: will queue
+0040.030 (0) Saving backup history. Total backup size: 30.6 MB
+0040.040 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0040.049 (0) Cloud backup selection (1/1):  with instance (1/1) (last)
+0040.052 (0) No remote despatch: user chose no remote backup service
+0040.058 (0) Recording as successfully uploaded: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-plugins.zip (a12e226deea37418c214daf5f89014de)
+0040.073 (0) Recording as successfully uploaded: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-themes.zip (f19c870ab6bd1a123f5e4f19fa9210d0)
+0040.083 (0) Recording as successfully uploaded: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-uploads.zip (b45a86b02086127694d87859adab548b)
+0040.093 (0) Recording as successfully uploaded: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-others.zip (be9f70cfa3eea6003b0e995908cda51c)
+0040.104 (0) Recording as successfully uploaded: backup_2018-04-14-2147_Lightning_ExUnit__5c68a0da66d3-db.gz (e0bb1ccb3c2c1009c99ee592188e0829)
+0040.113 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=4, retain_db=4
+0040.118 (0) Number of backup sets in history: 3; groups (db): 1
+0040.121 (0) Examining (for databases) backup set with group_id=0, nonce=5c68a0da66d3, datestamp=1523710063 (Apr 14 2018 12:47:43)
+0040.124 (0) This backup set is the backup set just made, so will not be deleted.
+0040.124 (0) Examining (for databases) backup set with group_id=0, nonce=078a4ba7bb9b, datestamp=1523602435 (Apr 13 2018 06:53:55)
+0040.124 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0040.127 (0) Examining (for databases) backup set with group_id=0, nonce=77d836b4927c, datestamp=1518863083 (Feb 17 2018 10:24:43)
+0040.128 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0040.129 (0) Number of backup sets in history: 3; groups (files): 1
+0040.133 (0) Examining (for files) backup set with nonce=5c68a0da66d3, datestamp=1523710063 (Apr 14 2018 12:47:43)
+0040.133 (0) This backup set is the backup set just made, so will not be deleted.
+0040.136 (0) This backup set is the backup set just made, so will not be deleted.
+0040.137 (0) This backup set is the backup set just made, so will not be deleted.
+0040.138 (0) This backup set is the backup set just made, so will not be deleted.
+0040.139 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0040.142 (0) Examining (for files) backup set with nonce=078a4ba7bb9b, datestamp=1523602435 (Apr 13 2018 06:53:55)
+0040.142 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0040.143 (0) Examining (for files) backup set with nonce=77d836b4927c, datestamp=1518863083 (Feb 17 2018 10:24:43)
+0040.143 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0040.144 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0040.154 (0) Resume backup (5c68a0da66d3, 0): finish run
+0040.174 (0) Decremented the semaphore (fd) by 1
+0040.182 (0) Semaphore (fd) unlocked
+0040.189 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0040.208 (0) The backup apparently succeeded and is now complete
+0040.216 (0) No email will/can be sent - the user has not configured an email address.
+0040.224 (0) バックアップは成功し完了しました。
